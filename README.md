@@ -1,0 +1,5 @@
+- # Sobre mim!
+-  👋 Olá meu nome é @NandaFifi
+- :speech_balloon: Meu email de contato é fernanda.cardoso.abreu@escola.pr.gov.br
+- :v: Eu estou interesada em aprender a programar novas linguágens.
+- Eu estou aprendendo a programar recentimente a linguágem de JavaScribpt e Scratch...
